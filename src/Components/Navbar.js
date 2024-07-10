@@ -13,7 +13,7 @@ const Navbar = () => {
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav ms-auto">
         <li className="nav-item" style={{ margin: "0 15px" }}>
-          <NavLink className="nav-link" to="/home" activeClassName="active-link">Home</NavLink>
+          <NavLink className="nav-link" to="/" activeClassName="active-link">Home</NavLink>
         </li>
         <li className="nav-item" style={{ margin: "0 15px" }}>
           <NavLink className="nav-link" to="/about" activeClassName="active-link">About</NavLink>
