@@ -18,7 +18,8 @@ const About = () => {
             programming and databases. Seeking software development
             opportunities to apply programming skills.
           </p>
-          <div style={{padding:"9px 247px"}}><button type="button" class="btn btn-outline-primary">Download Resume</button></div>
+          <div style={{padding:"9px 247px"}}><button type="button" class="btn btn-outline-primary">Download Resume</button>
+          <i class="bi bi-cloud-arrow-down-fill"></i></div>
         </div>
         <div class="col-md-5 order-md-1">
           <img

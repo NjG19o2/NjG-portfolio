@@ -1,0 +1,10 @@
+/* Reduce the gap between columns */
+.row > div[class*="col"] {
+    padding-right: 0.25rem; /* Adjust as needed */
+    padding-left: 0.25rem; /* Adjust as needed */
+  }
+  
+  /* Optional: Adjust the size of the cards if needed */
+  .card {
+    margin-bottom: 0.5rem; /* Adjust as needed */
+  }
